@@ -1,6 +1,27 @@
 # tutorial_1
 
 A new Flutter project.
+ - Material App
+ - Scaffold
+ - Stateful & Stateless
+ - Navbar
+ - Elevated button
+ - const
+ - Buttons
+ - Title
+ - Centre
+ - onTap
+ - MainAxisAlignment
+ - CrossAxisAlignment
+ - SizedBox
+ - styleFrom
+ - backgroundColor
+ - foregroundColor
+ - max width
+ - Containers
+ - Row & Col
+
+
 
 ## Getting Started
 
